@@ -95,3 +95,26 @@
     background-color: lightcoral;
     border: 1px solid black;
 }
+
+.name, .e-mail, .phone, .message{
+    background-color: crimson;
+    border: 1px solid black;
+}
+
+.button-2{
+    height: 30px;
+    background-color: deeppink;
+}
+
+.margin-top-100{
+    margin-top: 100px;
+}
+
+.background-blue{
+    background-color: rgb(27, 27, 46);
+}
+
+.location, .about-the-web, .about-freelance{
+    height: 40px;
+    background-color: white;
+}
