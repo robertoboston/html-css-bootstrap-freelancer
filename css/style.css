@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.background-blue{
+    background-color: blue;
+}
+
+.height-50{
+    height: 50px;
+}
+
+.hamburger{
+    border: 1px solid white;
+}
