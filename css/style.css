@@ -118,3 +118,12 @@
     height: 40px;
     background-color: white;
 }
+
+.background-black{
+    background-color: black;
+}
+
+.copyright{
+    height: 30px;
+    background-color: coral;
+}
