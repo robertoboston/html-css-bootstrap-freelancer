@@ -21,6 +21,15 @@
 .font-size-20{
     font-size: 20px;
 }
+
+.display-block{
+    display: block;
+}
+
+.rounded{
+    border: 1px solid white;
+    border-radius: 100%;
+}
 /* HEADER  */
 
 header{
@@ -86,31 +95,20 @@ header{
     width: 100%;
 }
 
-.name, .e-mail, .phone, .message{
-    background-color: crimson;
-    border: 1px solid black;
-}
+/* END MAIN  */
 
-.button-2{
-    height: 30px;
-    background-color: deeppink;
-}
-
+/* FOOTER  */
 
 .background-blue{
-    background-color: rgb(27, 27, 46);
+    background-color: #3a546d;
 }
 
-.location, .about-the-web, .about-freelance{
-    height: 40px;
-    background-color: white;
+.footer-link{
+    text-decoration: none;
+    color: #1abc9c;
 }
 
 .background-black{
-    background-color: black;
+    background-color: #2c3e50;
 }
 
-.copyright{
-    height: 30px;
-    background-color: coral;
-}
