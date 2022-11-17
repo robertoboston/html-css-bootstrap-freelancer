@@ -82,10 +82,8 @@ header{
 }
 
 
-.contact-me{
-    height: 30px;
-    background-color: lightcoral;
-    border: 1px solid black;
+.width-100{
+    width: 100%;
 }
 
 .name, .e-mail, .phone, .message{
