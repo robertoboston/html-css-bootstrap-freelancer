@@ -30,6 +30,13 @@
     border: 1px solid white;
     border-radius: 100%;
 }
+
+.display-flex{
+    display: flex;
+    justify-content: center;
+}
+
+
 /* HEADER  */
 
 header{
