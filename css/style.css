@@ -44,40 +44,18 @@ header{
    width: 100%;
 }
 
+/* END JUMBOTRON  */
 
-.portfolio{
-    height: 30px;
-    background-color: darkcyan;
-    border: 1px solid black;
+/* MAIN  */
+
+
+.portfolio h1{
+    color: #333333;
 }
 
-.img-1{
-    height: 200px;
-    background-color: brown;
-}
 
-.img-2{
-    height: 200px;
-    background-color: blueviolet
-}
-
-.img-3{
-    height: 200px;
-    background-color: yellow
-}
-
-.img-4{
-    height: 200px;
-    background-color: violet
-}
-.img-5{
-    height: 200px;
-    background-color: green
-}
-
-.img-6{
-    height: 200px;
-    background-color: black
+.img-main img {
+    width: 100%;
 }
 
 .about{
