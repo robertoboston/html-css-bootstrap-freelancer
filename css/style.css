@@ -6,10 +6,6 @@
 
 /* UTILITIES  */
 
-.text-white{
-    color: white;
-}
-
 .border-white{
     border-color: white;
 }
@@ -24,11 +20,6 @@
 
 .display-block{
     display: block;
-}
-
-.rounded{
-    border: 1px solid white;
-    border-radius: 100%;
 }
 
 .display-flex{
@@ -63,6 +54,7 @@ header{
 .img-jumbo img{
    width: 100%;
 }
+
 
 /* END JUMBOTRON  */
 
