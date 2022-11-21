@@ -59,6 +59,27 @@ header{
    width: 100%;
 }
 
+.line:after, .line:before{
+    content: "";
+    width: 20%;
+    background-color: white;
+    height: 10px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.line-2::after, .line-2::before{
+    content: "";
+    width: 20%;
+    background-color: black;
+    height: 10px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+
+
 
 /* END JUMBOTRON  */
 
